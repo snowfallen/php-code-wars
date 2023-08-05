@@ -1,0 +1,17 @@
+{
+    "name": "oleksandr/php-code-wars",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpCodeWars\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "snowfallen",
+            "email": "bondarenkoov1998@gmail.com"
+        }
+    ],
+    "require": {}
+}
